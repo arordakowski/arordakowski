@@ -1,11 +1,16 @@
-### Olá! 👋 Sou o Alexandre  
+# 👋 Olá! Eu sou o Alexandre
 
-🚀 **Full Stack Developer | Empreendedor**  
-Co-fundador de um **SaaS com vários clientes** e desenvolvedor full stack com mais de **5 anos de experiência**, atuando no desenvolvimento de soluções escaláveis e robustas.  
+🚀 **Desenvolvedor Full Stack | Empreendedor**  
+Cofundador de uma plataforma SaaS com diversos clientes ativos, atuando há mais de **5 anos** na criação de soluções web e mobile escaláveis, performáticas e fáceis de manter.
 
-💡 **Tecnologias:** Node.js, Flutter, React, PostgreSQL, Docker, Oracle, SQL, Prisma, entre outras.  
-⚙️ **Foco em:** arquitetura limpa, automação e desenvolvimento eficiente.  
+## 💻 Tecnologias que utilizo
+- **Linguagens & Frameworks:** Node.js | Flutter | React | JavaScript | Dart
+- **Bancos de Dados:** PostgreSQL | Oracle | SQL
+- **Ferramentas & DevOps:** Docker | Prisma | Git
+- **Práticas:** Arquitetura limpa | APIs RESTful | Integrações de sistemas | Automação de processos
 
-🔍 Atualmente trabalhando em soluções inovadoras para o setor varejista e aprimorando produtos SaaS.  
+## 🧠 Foco atual
+Desenvolvendo soluções para o setor varejista, com foco em performance, automação e experiência do usuário. Sempre buscando melhorar produtos SaaS em produção e explorar novas possibilidades com tecnologia.
 
-📫 **Vamos conectar?** Me encontre no [LinkedIn](https://www.linkedin.com/in/alexandre-ordakowski/)  
+## 📫 Vamos conectar?
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/alexandre-ordakowski/)
